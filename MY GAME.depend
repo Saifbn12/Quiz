@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1668464037 source:c:\users\saif\desktop\c\my game\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1672243339 source:c:\users\saif\desktop\tds\c\my game\main.c
+	<stdio.h>
+	<stdlib.h>
+
